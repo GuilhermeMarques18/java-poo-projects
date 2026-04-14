@@ -1,4 +1,4 @@
-package classe.relogio;
+package modificadoresAcesso.relogio;
 
 import java.util.Scanner;
 

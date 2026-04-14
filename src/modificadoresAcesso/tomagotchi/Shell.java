@@ -1,4 +1,4 @@
-package classe.tomagotchi;
+package modificadoresAcesso.tomagotchi;
 
 import  java.util.*;
 

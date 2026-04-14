@@ -1,4 +1,4 @@
-package classe.relogio;
+package modificadoresAcesso.relogio;
 
 public class Time{
     private int hour;

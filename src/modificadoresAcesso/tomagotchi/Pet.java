@@ -1,4 +1,4 @@
-package classe.tomagotchi;
+package modificadoresAcesso.tomagotchi;
 
 public class Pet {
     private int energMax;

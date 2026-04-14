@@ -33,7 +33,7 @@ public String toString() {
 return String.format("%02d:%02d:%02d", hora, minuto, segundo);
 }
 //cpp
-//strinstream é uma classe da biblioteca sstream
+//strinstream é uma modificadoresAcesso da biblioteca sstream
 //setfill e setw são funções da biblioteca iomanip
 std::string str() const {
 stringstream ss;

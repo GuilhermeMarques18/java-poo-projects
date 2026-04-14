@@ -1,4 +1,4 @@
-package classe.relogio;
+package modificadoresAcesso.relogio;
 
 class Solver {
     public static void main (String[] args) {
