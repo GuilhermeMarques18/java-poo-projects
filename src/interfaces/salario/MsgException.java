@@ -1,4 +1,7 @@
 package interfaces.salario;
 
-public class MsgException {
+class MsgException extends Exception{
+    public MsgException(String message){
+        super(message);
+    }
 }

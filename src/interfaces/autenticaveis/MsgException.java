@@ -1,4 +1,7 @@
 package interfaces.autenticaveis;
 
-public class MsgException {
+class MsgException extends RuntimeException{
+    public MsgException(String message){
+        super(message);
+    }
 }
