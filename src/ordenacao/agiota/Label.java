@@ -1,4 +1,10 @@
 package ordenacao.agiota;
 
-public class Label {
+
+
+public enum Label {
+    GIVE,
+    TAKE,
+    PLUS
 }
+
